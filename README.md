@@ -1,7 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (RoboBill by Ashish Mishra)
-```
+
+# RoboBill web app
+
 
 An app to analyse a bill you enter and provide details using Gemini AI prompt ...
 
